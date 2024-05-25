@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Fotology\\Fotology\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fotology.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Fotology.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\Carr1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\Carr1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\Carr1.psd",
+      "PackagePath": "staticwebassets\\Recursos\\Carr1.psd"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\Exposicion.pdf",
+      "PackagePath": "staticwebassets\\Recursos\\Exposicion.pdf"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\IMAGOTIPO.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\IMAGOTIPO.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\IMAGOTIPO.psd",
+      "PackagePath": "staticwebassets\\Recursos\\IMAGOTIPO.psd"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGO.png",
+      "PackagePath": "staticwebassets\\Recursos\\LOGO.png"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGO.psd",
+      "PackagePath": "staticwebassets\\Recursos\\LOGO.psd"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGOA.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\LOGOA.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGOA.png",
+      "PackagePath": "staticwebassets\\Recursos\\LOGOA.png"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGOA.psd",
+      "PackagePath": "staticwebassets\\Recursos\\LOGOA.psd"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGO_CON_FONDO.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\LOGO_CON_FONDO.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\LOGO_CON_FONDO.psd",
+      "PackagePath": "staticwebassets\\Recursos\\LOGO_CON_FONDO.psd"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\NECAF-TECNOLOGY.pdf",
+      "PackagePath": "staticwebassets\\Recursos\\NECAF-TECNOLOGY.pdf"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\PALETA_COLORES.psd",
+      "PackagePath": "staticwebassets\\Recursos\\PALETA_COLORES.psd"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\Paisaje1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\Paisaje1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\Prototipo.png",
+      "PackagePath": "staticwebassets\\Recursos\\Prototipo.png"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\Prototipoo.pdf",
+      "PackagePath": "staticwebassets\\Recursos\\Prototipoo.pdf"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\andrew.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\andrew.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\animal1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\animal1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\cinc.jpeg",
+      "PackagePath": "staticwebassets\\Recursos\\cinc.jpeg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\cuat.jpeg",
+      "PackagePath": "staticwebassets\\Recursos\\cuat.jpeg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\dos.jpeg",
+      "PackagePath": "staticwebassets\\Recursos\\dos.jpeg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\evento1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\evento1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\foto.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\foto.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\fotografo1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\fotografo1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\fotografo2.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\fotografo2.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\fotografo3.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\fotografo3.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\fotografo4.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\fotografo4.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\muj.jpeg",
+      "PackagePath": "staticwebassets\\Recursos\\muj.jpeg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p2.webp",
+      "PackagePath": "staticwebassets\\Recursos\\p2.webp"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p4.webp",
+      "PackagePath": "staticwebassets\\Recursos\\p4.webp"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p5.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p6.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p7.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\p8.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\retrato1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\retrato1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\tres.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\tres.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\uiu.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\uiu.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\un.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\un.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\usi.webp",
+      "PackagePath": "staticwebassets\\Recursos\\usi.webp"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\usu.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\usu.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\usuu.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\usuu.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\Recursos\\viaje1.jpg",
+      "PackagePath": "staticwebassets\\Recursos\\viaje1.jpg"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Administrador css\\styleadministrador.css",
+      "PackagePath": "staticwebassets\\css\\Administrador css\\styleadministrador.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Administrador css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\Administrador css\\styles.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\Fotografos.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\Fotografos.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\olvidocontraseña.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\olvidocontraseña.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\stili.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\stili.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\styleayuda.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\styleayuda.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\stylecategorias.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\stylecategorias.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\stylecontacto.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\stylecontacto.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\stylepagprincipal.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\stylepagprincipal.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Cliente css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\Cliente css\\styles.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Fotografo css\\Fotografos.css",
+      "PackagePath": "staticwebassets\\css\\Fotografo css\\Fotografos.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Fotografo css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\Fotografo css\\estilos.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Fotografo css\\stylecarrusel.css",
+      "PackagePath": "staticwebassets\\css\\Fotografo css\\stylecarrusel.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Fotografo css\\stylefotografos.css",
+      "PackagePath": "staticwebassets\\css\\Fotografo css\\stylefotografos.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Fotografo css\\stylepagfotografo.css",
+      "PackagePath": "staticwebassets\\css\\Fotografo css\\stylepagfotografo.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Home y Inicio css\\ayuda.css",
+      "PackagePath": "staticwebassets\\css\\Home y Inicio css\\ayuda.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Home y Inicio css\\home.css",
+      "PackagePath": "staticwebassets\\css\\Home y Inicio css\\home.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Home y Inicio css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\Home y Inicio css\\styles.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Registro y index\\site.css",
+      "PackagePath": "staticwebassets\\css\\Registro y index\\site.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\Registro y index\\styleiniciosesion.css",
+      "PackagePath": "staticwebassets\\css\\Registro y index\\styleiniciosesion.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\css\\starability.css",
+      "PackagePath": "staticwebassets\\css\\starability.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\js\\dropdown.js",
+      "PackagePath": "staticwebassets\\js\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\js\\fotografo.js",
+      "PackagePath": "staticwebassets\\js\\fotografo.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Fotology\\Fotology\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Fotology.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Fotology.props",
+      "PackagePath": "build\\Fotology.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Fotology.props",
+      "PackagePath": "buildMultiTargeting\\Fotology.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Fotology.props",
+      "PackagePath": "buildTransitive\\Fotology.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

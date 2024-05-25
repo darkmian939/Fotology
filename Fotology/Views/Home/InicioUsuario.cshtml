@@ -1,0 +1,47 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión como Usuario</title>
+    <link rel="stylesheet" href="~/css/Home y Inicio css/styles.css">
+</head>
+<body>
+    <div id="usuarioContainer">
+        <div class="contenedor-form">
+            <form id="Usuario" action="@Url.Action("PagCliente", "Cliente")" method="POST">
+                <div class="header">
+                    <a class="selected" data-user-type="Usuario">USUARIO</a><br>
+                </div>
+                <hr>
+                @if (ViewData["Error"] != null)
+                {
+                    <p class="error">
+                        @ViewData["Error"]
+                    </p>
+                }
+                <div class="fila">
+                    <label for="Email">Usuario</label>
+                    <input type="text" id="Email" name="email">
+                </div>
+                <div class="fila">
+                    <label for="Clave">Contraseña</label>
+                    <input type="password" id="Clave" name="password">
+                </div>
+                <div class="fila">
+                    <br><br>
+                    <input type="checkbox" class="check" id="mantener-sesion" name="mantenerSesion">
+                    <label for="mantener-sesion">Mantener Sesión</label>
+                </div>
+                <input type="submit" value="Iniciar Sesión" class="btn">
+            </form>
+            <p>¿No tienes cuenta? <a href="@Url.Action("RegistroUsuario", "Registro")">Regístrate aquí</a></p>
+        <p>¿Quieres iniciar sesión como <a href="@Url.Action("InicioFotografo", "Home")">Fotógrafo</a> o <a href="@Url.Action("InicioAdministrador", "Home")">Administrador</a>?</p><br>
+        <a href="@Url.Action("olvidocontraseña", "Cliente")" class="olvido">Olvidó la Contraseña</a>
+    </div>
+</body>
+</html>
