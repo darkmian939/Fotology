@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fotology\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|c:\\fotology\\fotology\\views\\registro\\registrofotografo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|solutionrelative:fotology\\views\\registro\\registrofotografo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|c:\\fotology\\fotology\\views\\registro\\registrousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|solutionrelative:fotology\\views\\registro\\registrousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|c:\\fotology\\fotology\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|solutionrelative:fotology\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|c:\\fotology\\fotology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|solutionrelative:fotology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|c:\\fotology\\fotology\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|solutionrelative:fotology\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|c:\\fotology\\fotology\\views\\home\\iniciousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B815CED-97F2-4CB2-BF79-E3A137F32598}|Fotology\\Fotology.csproj|solutionrelative:fotology\\views\\home\\iniciousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fotology\\Fotology\\Program.cs",
+              "RelativeDocumentMoniker": "Fotology\\Program.cs",
+              "ToolTip": "C:\\Fotology\\Fotology\\Program.cs",
+              "RelativeToolTip": "Fotology\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:16:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Fotology\\Fotology\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fotology\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Fotology\\Fotology\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fotology\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:48:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroFotografo.cshtml",
+              "DocumentMoniker": "C:\\Fotology\\Fotology\\Views\\Registro\\RegistroFotografo.cshtml",
+              "RelativeDocumentMoniker": "Fotology\\Views\\Registro\\RegistroFotografo.cshtml",
+              "ToolTip": "C:\\Fotology\\Fotology\\Views\\Registro\\RegistroFotografo.cshtml",
+              "RelativeToolTip": "Fotology\\Views\\Registro\\RegistroFotografo.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:43:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Fotology\\Fotology\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Fotology\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Fotology\\Fotology\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Fotology\\Controllers\\RegistroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:39:26.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroUsuario.cshtml",
+              "DocumentMoniker": "C:\\Fotology\\Fotology\\Views\\Registro\\RegistroUsuario.cshtml",
+              "RelativeDocumentMoniker": "Fotology\\Views\\Registro\\RegistroUsuario.cshtml",
+              "ToolTip": "C:\\Fotology\\Fotology\\Views\\Registro\\RegistroUsuario.cshtml",
+              "RelativeToolTip": "Fotology\\Views\\Registro\\RegistroUsuario.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:43:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InicioUsuario.cshtml",
+              "DocumentMoniker": "C:\\Fotology\\Fotology\\Views\\Home\\InicioUsuario.cshtml",
+              "RelativeDocumentMoniker": "Fotology\\Views\\Home\\InicioUsuario.cshtml",
+              "ToolTip": "C:\\Fotology\\Fotology\\Views\\Home\\InicioUsuario.cshtml",
+              "RelativeToolTip": "Fotology\\Views\\Home\\InicioUsuario.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:42:15.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
