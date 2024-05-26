@@ -34,6 +34,16 @@ namespace Fotology.Controllers
             return View();
         }
 
+        public IActionResult RegistroUsuario()
+        {
+            return View();
+        }
+
+        public IActionResult RegistroFotografo()
+        {
+            return View();
+        }
+
         public IActionResult PagCliente()
         {
             return View();

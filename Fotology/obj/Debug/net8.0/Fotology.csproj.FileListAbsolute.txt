@@ -144,3 +144,4 @@ C:\Fotology\Fotology\obj\Debug\net8.0\refint\Fotology.dll
 C:\Fotology\Fotology\obj\Debug\net8.0\Fotology.pdb
 C:\Fotology\Fotology\obj\Debug\net8.0\Fotology.genruntimeconfig.cache
 C:\Fotology\Fotology\obj\Debug\net8.0\ref\Fotology.dll
+C:\Fotology\Fotology\obj\Debug\net8.0\Fotology.sourcelink.json
