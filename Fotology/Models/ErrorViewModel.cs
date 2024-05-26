@@ -1,4 +1,4 @@
-namespace Fotology.Models
+namespace SenaFotology.Models
 {
     public class ErrorViewModel
     {

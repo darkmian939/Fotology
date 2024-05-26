@@ -1,17 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SenaFotology.Models;
+using static SenaFotology.Models.LoginViewModel;
 
-namespace Fotology.Controllers
+namespace SenaFotology.Controllers
 {
     public class RegistroController : Controller
     {
-        public IActionResult RegistroUsuario()
+        public ActionResult RegistroUsuario()
+        {
+            return View();
+        }
+        public ActionResult RegistroFotografo()
         {
             return View();
         }
 
-        public IActionResult RegistroFotografo()
-        {
-            return View();
-        }
     }
 }

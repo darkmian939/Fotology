@@ -31,6 +31,31 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Views\Admin\IniciarSesionAdministrador.cshtml" />
+    <None Include="Views\Admin\PagAdministrador.cshtml" />
+    <None Include="Views\Admin\PagClienteCrud.cshtml" />
+    <None Include="Views\Cliente\Configuraciones.cshtml" />
+    <None Include="Views\Cliente\dropdown-menu.cshtml" />
+    <None Include="Views\Cliente\Fotografos.cshtml" />
+    <None Include="Views\Cliente\Index.cshtml" />
+    <None Include="Views\Cliente\olvidocontraseña.cshtml" />
+    <None Include="Views\Cliente\PaginaAyuda.cshtml" />
+    <None Include="Views\Cliente\PaginaCategorias.cshtml" />
+    <None Include="Views\Cliente\PagCliente.cshtml" />
+    <None Include="Views\Cliente\PaginaContacto.cshtml" />
+    <None Include="Views\Cliente\PerfilCliente.cshtml" />
+    <None Include="Views\Cliente\Privacy.cshtml" />
+    <None Include="Views\Fotografo\dropdown-menu.cshtml" />
+    <None Include="Views\Fotografo\EditarPerfil.cshtml" />
+    <None Include="Views\Fotografo\Indexfotografo.cshtml" />
+    <None Include="Views\Fotografo\Indexx.cshtml" />
+    <None Include="Views\Fotografo\IniciarSesionFotografo.cshtml" />
+    <None Include="Views\Fotografo\olvidocontraseñaFot.cshtml" />
+    <None Include="Views\Fotografo\PaginaAyuda.cshtml" />
+    <None Include="Views\Fotografo\PaginaCategorias.cshtml" />
+    <None Include="Views\Fotografo\PaginaContacto.cshtml" />
+    <None Include="Views\Fotografo\PagFotografo.cshtml" />
+    <None Include="Views\Fotografo\PerfilFotografo.cshtml" />
     <None Include="wwwroot\js\site.js" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />

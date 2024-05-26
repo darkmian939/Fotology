@@ -22,16 +22,104 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Fotology/Fotology/Views/Administrador/PagAdministrador.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxQYWdBZG1pbmlzdHJhZG9yLmNzaHRtbA==
+[C:/Fotology/Fotology/Views/Admin/IniciarSesionAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5pY2lhclNlc2lvbkFkbWluaXN0cmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Admin/PagAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnQWRtaW5pc3RyYWRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Admin/PagClienteCrud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnQ2xpZW50ZUNydWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/Configuraciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDb25maWd1cmFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/dropdown-menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxkcm9wZG93bi1tZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/Fotografos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxGb3RvZ3JhZm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/olvidocontraseña.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxvbHZpZG9jb250cmFzZcOxYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Fotology/Fotology/Views/Cliente/PagCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQYWdDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Fotology/Fotology/Views/Cliente/PaginaAyuda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQYWdpbmFBeXVkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/PaginaCategorias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQYWdpbmFDYXRlZ29yaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/PaginaContacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQYWdpbmFDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/PerfilCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQZXJmaWxDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Cliente/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/dropdown-menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXGRyb3Bkb3duLW1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/EditarPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXEVkaXRhclBlcmZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/Indexfotografo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXEluZGV4Zm90b2dyYWZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/Indexx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXEluZGV4eC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/IniciarSesionFotografo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXEluaWNpYXJTZXNpb25Gb3RvZ3JhZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/olvidocontraseñaFot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXG9sdmlkb2NvbnRyYXNlw7FhRm90LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Fotology/Fotology/Views/Fotografo/PagFotografo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXFBhZ0ZvdG9ncmFmby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/PaginaAyuda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXFBhZ2luYUF5dWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/PaginaCategorias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXFBhZ2luYUNhdGVnb3JpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/PaginaContacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXFBhZ2luYUNvbnRhY3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fotology/Fotology/Views/Fotografo/PerfilFotografo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b2dyYWZvXFBlcmZpbEZvdG9ncmFmby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Fotology/Fotology/Views/Home/Ayuda.cshtml]

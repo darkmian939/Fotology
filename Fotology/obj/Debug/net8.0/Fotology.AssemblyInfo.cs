@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fotology")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1efa9c879fd0589f629cec7e45717c13cccbda1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118c61b2aec890149eb9b1a37063f156d952c402")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fotology")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fotology")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

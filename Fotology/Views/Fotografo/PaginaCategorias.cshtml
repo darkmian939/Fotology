@@ -1,0 +1,149 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PagPrincipal</title>
+    <link rel="stylesheet" href="~/css/Cliente css/stylecategorias.css" />
+    <link rel="icon" href="~/Recursos/LOGOA.png" />
+    <script src="https://kit.fontawesome.com/9bf48cfb4e.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/646ac4fad6.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <script src="~/js/dropdown.js"></script>
+
+    <header class="header">
+        <div class="logo">
+            <img src="../Recursos/LOGOA.png" alt="Logo" />
+        </div>
+        <nav>
+            <ul class="linksnav">
+                <li><a href="@Url.Action("Indexfotografo", "Fotografo")">Mi perfil</a></li>
+                <li><a href="@Url.Action("PaginaFotografo", "Fotografo")">Publicaciones</a></li>
+                <li><a href="@Url.Action("PaginaCategorias", "Fotografo")">Calificaciones</a></li>
+                <li><a href="@Url.Action("PaginaAyuda", "Fotografo")">Ayuda</a></li>
+                <li><a href="@Url.Action("PaginaContacto", "Fotografo")">Contacto</a></li>
+                <li class="dropdown">
+                    <a href="#">
+                        <i class="fas fa-user"></i>
+                    </a>
+                    <div class="dropdown-content">
+                        <a href="@Url.Action("PerfilCliente", "Cliente")">Perfil</a>
+                        <a href="@Url.Action("Configuraciones", "Cliente")">Configuración</a>
+                        <a href="@Url.Action("Index", "Home")">Cerrar Sesión</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+  
+    </header>
+
+    <h1>Mis calificaciones</h1>
+
+    <div class="container-card">
+        <div class="card">
+            <figure>
+                <img src="~/Recursos/usi.webp" />
+            </figure>
+            <div class="contenido-card">
+                <fieldset class="starability-growRotate">
+                    <input type="radio" id="star5_1" name="rating_1" value="5" />
+                    <label for="star5_1" title="5 stars"></label>
+                    <input type="radio" id="star4_1" name="rating_1" value="4" />
+                    <label for="star4_1" title="4 stars"></label>
+                    <input type="radio" id="star3_1" name="rating_1" value="3" />
+                    <label for="star3_1" title="3 stars"></label>
+                    <input type="radio" id="star2_1" name="rating_1" value="2" />
+                    <label for="star2_1" title="2 stars"></label>
+                    <input type="radio" id="star1_1" name="rating_1" value="1" />
+                    <label for="star1_1" title="1 star"></label>
+                </fieldset>
+                <h3>Vannesa Ruiz</h3>
+                <p>
+                    Excelente trabajo, gracias por ayudarme a tener en fotografias el mejor momento de mi vida, 5 estrellas te regalo
+                </p>
+               
+            </div>
+        </div>
+        <div class="card">
+            <figure>
+                <img src="~/Recursos/usu.jpg" />
+            </figure>
+            <div class="contenido-card">
+                <fieldset class="starability-growRotate">
+                    <input type="radio" id="star5_1" name="rating_1" value="5" />
+                    <label for="star5_1" title="5 stars"></label>
+                    <input type="radio" id="star4_1" name="rating_1" value="4" />
+                    <label for="star4_1" title="4 stars"></label>
+                    <input type="radio" id="star3_1" name="rating_1" value="3" />
+                    <label for="star3_1" title="3 stars"></label>
+                    <input type="radio" id="star2_1" name="rating_1" value="2" />
+                    <label for="star2_1" title="2 stars"></label>
+                    <input type="radio" id="star1_1" name="rating_1" value="1" />
+                    <label for="star1_1" title="1 star"></label>
+                </fieldset>
+                <h3>Diego Calderon</h3>
+                <p>
+                    Excelente trabajo, gracias por ayudarme a tener en fotografias el mejor momento de mi vida, 5 estrellas te regalo
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-card">
+        <div class="card">
+            <figure>
+                <img src="~/Recursos/uiu.jpg" />
+            </figure>
+            <div class="contenido-card">
+                <fieldset class="starability-growRotate">
+                    <input type="radio" id="star5_1" name="rating_1" value="5" />
+                    <label for="star5_1" title="5 stars"></label>
+                    <input type="radio" id="star4_1" name="rating_1" value="4" />
+                    <label for="star4_1" title="4 stars"></label>
+                    <input type="radio" id="star3_1" name="rating_1" value="3" />
+                    <label for="star3_1" title="3 stars"></label>
+                    <input type="radio" id="star2_1" name="rating_1" value="2" />
+                    <label for="star2_1" title="2 stars"></label>
+                    <input type="radio" id="star1_1" name="rating_1" value="1" />
+                    <label for="star1_1" title="1 star"></label>
+                </fieldset>
+                <h3>Marcelo Diaz</h3>
+                <p>
+                    Excelente trabajo, gracias por ayudarme a tener en fotografias el mejor momento de mi vida, 5 estrellas te regalo
+                </p>
+            </div>
+        </div>
+        <div class="card">
+            <figure>
+                <img src="~/Recursos/usuu.jpg" />
+            </figure>
+            <div class="contenido-card">
+                <fieldset class="starability-growRotate">
+                    <input type="radio" id="star5_1" name="rating_1" value="5" />
+                    <label for="star5_1" title="5 stars"></label>
+                    <input type="radio" id="star4_1" name="rating_1" value="4" />
+                    <label for="star4_1" title="4 stars"></label>
+                    <input type="radio" id="star3_1" name="rating_1" value="3" />
+                    <label for="star3_1" title="3 stars"></label>
+                    <input type="radio" id="star2_1" name="rating_1" value="2" />
+                    <label for="star2_1" title="2 stars"></label>
+                    <input type="radio" id="star1_1" name="rating_1" value="1" />
+                    <label for="star1_1" title="1 star"></label>
+                </fieldset>
+                <h3>Veronica Guzman</h3>
+                <p>
+                    Excelente trabajo, gracias por ayudarme a tener en fotografias el mejor momento de mi vida, 5 estrellas te regaloo
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
